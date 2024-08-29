@@ -1,42 +1,1692 @@
 [
     {
+        "account": "0x68958733452f6eeF73AE6057580db5a699b70414",
+        "healthFactor": 1.0011330933756695,
+        "network": "taiko"
+    },
+    {
+        "account": "0x90C5D4fb190dF3432CDE9C0a56121797C6b425CF",
+        "healthFactor": 1.0083238895894502,
+        "network": "taiko"
+    },
+    {
+        "account": "0x892E025d252779E2df91cc84ef0D77F3eF32e458",
+        "healthFactor": 1.0140643654913635,
+        "network": "taiko"
+    },
+    {
+        "account": "0x588137e7c1Fce64a78e092611609B259bb524DaE",
+        "healthFactor": 1.028069633520995,
+        "network": "taiko"
+    },
+    {
+        "account": "0xE9F41a0090fcc7eaf626037003AAD44B17098E7C",
+        "healthFactor": 1.065167706744687,
+        "network": "taiko"
+    },
+    {
+        "account": "0xeC77675BBA6B71d6814C53Ff8cF2a7eC0a73d43b",
+        "healthFactor": 1.0654821619077068,
+        "network": "taiko"
+    },
+    {
+        "account": "0x20F053D7e3a9d53d42FE31Ae14EeF996C3b5706B",
+        "healthFactor": 1.0656305893580087,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0d510882aBe45bfA37728DFe0ef76Ac66a6baeF6",
+        "healthFactor": 1.066024915853469,
+        "network": "taiko"
+    },
+    {
+        "account": "0xf4Bff4FAFCE6bb93eaEAb4C5EdEd3ea681250d5E",
+        "healthFactor": 1.0661433254828487,
+        "network": "taiko"
+    },
+    {
+        "account": "0x680d6c522c1181072bDfbD167d0D67377D1f0Fed",
+        "healthFactor": 1.0661829754122891,
+        "network": "taiko"
+    },
+    {
+        "account": "0x7233B206bDF9ec35E398d250515D2CE2388c4A75",
+        "healthFactor": 1.066213346808196,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1758A62D4E7D7cFeDe365EFdfC8E03f5B3bD8df6",
+        "healthFactor": 1.0662161094266682,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd27ac8aBb3AE20e4acca64187459603e47f986ba",
+        "healthFactor": 1.0662346016325177,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF8D34113999e5352065b2E2Ee9a1166365B349AD",
+        "healthFactor": 1.0662369642399308,
+        "network": "taiko"
+    },
+    {
+        "account": "0x94428Ce627d373075f7a96EB2e0a340C309c8Ae5",
+        "healthFactor": 1.0664775362563066,
+        "network": "taiko"
+    },
+    {
+        "account": "0x85204a5E932b69455822033F33E378DFF4Bb8960",
+        "healthFactor": 1.0664846997540105,
+        "network": "taiko"
+    },
+    {
+        "account": "0x68F5B856069BfCA0690b17aDf943749bcB64908a",
+        "healthFactor": 1.0664892869042044,
+        "network": "taiko"
+    },
+    {
+        "account": "0x340d52ae8005D408e99CfbE449109CCA7Ec280c1",
+        "healthFactor": 1.0665440382043119,
+        "network": "taiko"
+    },
+    {
+        "account": "0x22518294cAA722b0BC807494a8C7B9d49350189e",
+        "healthFactor": 1.0665710324061484,
+        "network": "taiko"
+    },
+    {
+        "account": "0x88B4cd417E04DFC8B7451CF067fE79ECAE4F3859",
+        "healthFactor": 1.0665784378807595,
+        "network": "taiko"
+    },
+    {
+        "account": "0x34c045801f8400A2f7b0ACA34D168c04c956A430",
+        "healthFactor": 1.0667395865676388,
+        "network": "taiko"
+    },
+    {
+        "account": "0x7a6D12a372E0a43606D4ab02E31Ad6f01aD8457E",
+        "healthFactor": 1.0670231035424234,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0435C7bBdBBBa003E3B6449B11F0E4c827E907fD",
+        "healthFactor": 1.068034928487614,
+        "network": "taiko"
+    },
+    {
+        "account": "0x05faDA1AD2d81EE20c0467268B621A2d4098EA64",
+        "healthFactor": 1.0682843659951422,
+        "network": "taiko"
+    },
+    {
+        "account": "0x76dB1659c77CA4bd7B1dE6387744B257FA207bf1",
+        "healthFactor": 1.0698494419932776,
+        "network": "taiko"
+    },
+    {
+        "account": "0xc8D11313824Eea0813bD3F8aD9b3013e27a071f9",
+        "healthFactor": 1.073568174651591,
+        "network": "taiko"
+    },
+    {
+        "account": "0x12E6Cc56a058E2F48cE1e398f52D33981f83188f",
+        "healthFactor": 1.0743808316363943,
+        "network": "taiko"
+    },
+    {
+        "account": "0x91ae002a960e63Ccb0E5bDE83A8C13E51e1cB91A",
+        "healthFactor": 1.074696413806854,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB5588d507827a25dEcC8042e3e26c6D39998e14b",
+        "healthFactor": 1.075136122526671,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5115e5494E230fAb622D8A57B6406B3846cE5604",
+        "healthFactor": 1.0759134086223074,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF46dC57a0d8B614a0e8571217316d24B840ED9BC",
+        "healthFactor": 1.0763902408741353,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4aFDb8CA6C9a5D9AdEacF63251525887BCe503a4",
+        "healthFactor": 1.0768020574886463,
+        "network": "taiko"
+    },
+    {
+        "account": "0xc3673ADCaD9356F1B91ADD3D64D1cfe1f5431d7C",
+        "healthFactor": 1.0768085807755947,
+        "network": "taiko"
+    },
+    {
+        "account": "0xc4BF06C9063530024782d8425C66f4Bd540fc655",
+        "healthFactor": 1.0794249118488701,
+        "network": "taiko"
+    },
+    {
+        "account": "0x504c3c0829d9B5eA41f35541743c7bD47c8fB278",
+        "healthFactor": 1.0819199717285746,
+        "network": "taiko"
+    },
+    {
+        "account": "0xc295899c50F89Cf2a6c64226D3862c65C9E5a71A",
+        "healthFactor": 1.0846149404285907,
+        "network": "taiko"
+    },
+    {
+        "account": "0x333661EC481BB9902734a29db014767833592E4a",
+        "healthFactor": 1.084701986000645,
+        "network": "taiko"
+    },
+    {
         "account": "0x1CB3c6B77Fde279cf7403a5C0AE2d5Fc9D356A55",
-        "healthFactor": 1.0850207367554234,
+        "healthFactor": 1.0850105440558577,
+        "network": "taiko"
+    },
+    {
+        "account": "0x75910635C0D7CdaeeD4cDd2d32D1ec1D14bfA94a",
+        "healthFactor": 1.0864683099615877,
+        "network": "taiko"
+    },
+    {
+        "account": "0x43458D922Ab96DDc3b671c317eD84b5a65B8E290",
+        "healthFactor": 1.0866613670579544,
+        "network": "taiko"
+    },
+    {
+        "account": "0xe336cD08F42D0D6b9fE1B6E84c89D0ABA22a702e",
+        "healthFactor": 1.0877553888906075,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5b91Cd6E7Cf68AD47C3867a614644C3883148B3d",
+        "healthFactor": 1.0892634308733837,
+        "network": "taiko"
+    },
+    {
+        "account": "0xccD724B9af92A3A389150334556330EfD3f59487",
+        "healthFactor": 1.0898961593489962,
+        "network": "taiko"
+    },
+    {
+        "account": "0x58a5e1De5d16Ab49e41d9FBcA3711dE637c43C5E",
+        "healthFactor": 1.089918600619063,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4edb34De5A54B42cDb88D7E535EC767AcdCa9Ce1",
+        "healthFactor": 1.0901140442754942,
+        "network": "taiko"
+    },
+    {
+        "account": "0xA6617B1BF2c97c5928f845fe97a31a476B9eFCDd",
+        "healthFactor": 1.090311237961123,
+        "network": "taiko"
+    },
+    {
+        "account": "0x81EBf134483D5580A4e7cF52B2798d22aF1E9051",
+        "healthFactor": 1.0908081484762335,
+        "network": "taiko"
+    },
+    {
+        "account": "0x04dc7f3E8199F4E5386a354E81DEDD41bEcaBE7F",
+        "healthFactor": 1.0979520818931052,
+        "network": "taiko"
+    },
+    {
+        "account": "0x222806c583F081D6413c2ddaA88c60E4133BA0d1",
+        "healthFactor": 1.0985842453180399,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB8Fc9Dd2576bBdE9e2FD1F84b62023CE31529D26",
+        "healthFactor": 1.099058964473878,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8126132390d11b3947F3D1193ab0eB1eCc1B5A79",
+        "healthFactor": 1.0995537983298842,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd8C860D789Ec1c6aE9631B680E6555F25Bc28331",
+        "healthFactor": 1.1003141949387707,
+        "network": "taiko"
+    },
+    {
+        "account": "0x57a4377dE66C4778D0b909a04d4Ac21E7ee0E967",
+        "healthFactor": 1.1028578222306473,
+        "network": "taiko"
+    },
+    {
+        "account": "0xfF3f46CCD8FdDEb02A3Eba03D1B9848B2cD885d6",
+        "healthFactor": 1.1029997114716739,
+        "network": "taiko"
+    },
+    {
+        "account": "0x19aA556940b904d955A689dE9300A9828C837971",
+        "healthFactor": 1.1048599862005888,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB57766cA563a9386bCbE3806a1bCe44008868538",
+        "healthFactor": 1.1054361095813163,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB83D572429a00dB8D471EaBe5597f227E6498724",
+        "healthFactor": 1.1083890126206384,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd1A88045be63C1Ad6Ba598a2E0A70f2eEBd00597",
+        "healthFactor": 1.1090613001191607,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1CcFc6C1C52758e0c02B5047CF90b298E3c8d5dd",
+        "healthFactor": 1.1190088574071817,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd6F2B6A93dec9eB0372FA2f1cb05C37b8cBfB7a7",
+        "healthFactor": 1.120147761387069,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9c9aEaD2EdE0F12BF8818bCD7dD287705692d8b8",
+        "healthFactor": 1.122160318360507,
+        "network": "taiko"
+    },
+    {
+        "account": "0x716F6f3184438Ba7550990761A7869E2E49fEe69",
+        "healthFactor": 1.122176532349484,
+        "network": "taiko"
+    },
+    {
+        "account": "0xFE9f0918Ef516D60f6aAaE4c7B0528e12c18462b",
+        "healthFactor": 1.1248691219028848,
+        "network": "taiko"
+    },
+    {
+        "account": "0xf30F50B199665DD7FF1b4DbAec69001063eceB3F",
+        "healthFactor": 1.1250300223828817,
+        "network": "taiko"
+    },
+    {
+        "account": "0xa2C13a6913D1DF18ff4f5de2bc342023Cd683C38",
+        "healthFactor": 1.1252538340192009,
+        "network": "taiko"
+    },
+    {
+        "account": "0x40eF5243c64BFa49301adF18b09A79A190CFa266",
+        "healthFactor": 1.125431731207401,
+        "network": "taiko"
+    },
+    {
+        "account": "0x66740d02b72c0bA252d68528130fA78CdcBFaC95",
+        "healthFactor": 1.1264442019523278,
+        "network": "taiko"
+    },
+    {
+        "account": "0x37C4334EB5d24DCcCCfEBCC54680C433313EB040",
+        "healthFactor": 1.1295787907681065,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4b938a9A3739D8dA5D270829505E36F3a3a3a457",
+        "healthFactor": 1.1331576797950142,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd7A23344316286Bb57F2C5A74A8e0dbe1258A574",
+        "healthFactor": 1.1398435805172358,
+        "network": "taiko"
+    },
+    {
+        "account": "0x265504F2AB4310E63DB7e2A879e568866aBE3596",
+        "healthFactor": 1.142374339246959,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4148041c190526281EDf95A7D2844799a03E4c30",
+        "healthFactor": 1.1446758835950819,
+        "network": "taiko"
+    },
+    {
+        "account": "0xC85032a2e77bE215A095Fc8b77C0E3e16Bb69BF9",
+        "healthFactor": 1.1453973912110837,
         "network": "taiko"
     },
     {
         "account": "0xE86d78381c4cd7B4a67278e1194cA7bABc363Af9",
-        "healthFactor": 1.1485405112271205,
+        "healthFactor": 1.1491182238549287,
+        "network": "taiko"
+    },
+    {
+        "account": "0x07cbBB10460f28495eADfDD49a4CF785a48c48a5",
+        "healthFactor": 1.1536112566277081,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3a20BA3678C5c40F7CD48EB373fF8a501d170534",
+        "healthFactor": 1.154567609537185,
+        "network": "taiko"
+    },
+    {
+        "account": "0xAE4bf37cCB6454e5E73A9Fc4d8e316fCcd2D305f",
+        "healthFactor": 1.1578931467925964,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3450F5A03a243227220E960E2F1f8Ca7FbE76a20",
+        "healthFactor": 1.1690619303646126,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5A6a19033E3790891A00d97BE1931e45B2a78FF7",
+        "healthFactor": 1.1699210860087028,
+        "network": "taiko"
+    },
+    {
+        "account": "0xEe7C4aCA7D64075550F1b119b4bb4A0Aa889c340",
+        "healthFactor": 1.1712341650826188,
+        "network": "taiko"
+    },
+    {
+        "account": "0x6E5f7Bd9B940287F6C9AE8A2Ecfb93224A09cba5",
+        "healthFactor": 1.1719366855133362,
+        "network": "taiko"
+    },
+    {
+        "account": "0xa2b1bcCbB9189Bde3BD71b4663592FAB2aC40bad",
+        "healthFactor": 1.1772083142312257,
+        "network": "taiko"
+    },
+    {
+        "account": "0x48b576c87e788a762D6f95A456f2A39113b46950",
+        "healthFactor": 1.1847463622540215,
+        "network": "taiko"
+    },
+    {
+        "account": "0x637A0F6cBbA66cFd5086167e6Fd5C1BF03A0f085",
+        "healthFactor": 1.1882537541316727,
+        "network": "taiko"
+    },
+    {
+        "account": "0x19D8Bf2ae695E6493Bd7ee90Fb675087A426545C",
+        "healthFactor": 1.188752013039114,
+        "network": "taiko"
+    },
+    {
+        "account": "0xeD73577820B5be0bf08F308ae2f9d1e7B13A2130",
+        "healthFactor": 1.190640816022775,
+        "network": "taiko"
+    },
+    {
+        "account": "0xcc34A385bfdF725987E3c83720866581974d5df5",
+        "healthFactor": 1.1915802303691778,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8fe67f559f6D6dED602E954d45897ebEE5F7FFec",
+        "healthFactor": 1.1917343634901751,
+        "network": "taiko"
+    },
+    {
+        "account": "0xE6939a51fBF803B65b15421f7AFcdE54F75264a3",
+        "healthFactor": 1.1959876201113508,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF518Fa3344Ba498f1b9DEcBE1B9c7f0e1960ea29",
+        "healthFactor": 1.1966220531012788,
+        "network": "taiko"
+    },
+    {
+        "account": "0xaD2B9ab1392664De35D8f5e1B9709f9ef3734b31",
+        "healthFactor": 1.1984066494198966,
+        "network": "taiko"
+    },
+    {
+        "account": "0xca26ECF47Ce060855E652a4179d1D461de943822",
+        "healthFactor": 1.1986019309482727,
+        "network": "taiko"
+    },
+    {
+        "account": "0xbCaDb3f96bb8271058E42cbBD2ebaaDEC6380DE1",
+        "healthFactor": 1.1995024038132436,
+        "network": "taiko"
+    },
+    {
+        "account": "0xf9baA2C717f8140d6925D8fF1827aBeCa1906526",
+        "healthFactor": 1.1995944358402073,
         "network": "taiko"
     },
     {
         "account": "0x6Fa5d778E13888de9827d16ab5799807E863339a",
-        "healthFactor": 1.1999888787998618,
+        "healthFactor": 1.1999821201109122,
         "network": "taiko"
     },
     {
-        "account": "0x4BA67EC73A7aBF9E015eeFC1979053CE0E56B369",
-        "healthFactor": 1.3131269031786021,
+        "account": "0xc9F69b00aB541EaDA632e1dA19B71f0Bf82578B2",
+        "healthFactor": 1.2023011327394353,
+        "network": "taiko"
+    },
+    {
+        "account": "0x72705D1d8ddd95FF22F35E1aB8610944ef36D360",
+        "healthFactor": 1.2036864008923451,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9529746295EaFFC60937636e32F234f06Bd16Af3",
+        "healthFactor": 1.2054423113046169,
+        "network": "taiko"
+    },
+    {
+        "account": "0xEc8A675289BEb9cbEDBE5E8c91059668E2192Df8",
+        "healthFactor": 1.2091167051526177,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3F9913b22fB604478C4A448c16772CD849c5581b",
+        "healthFactor": 1.211307592725347,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4F5FE8DA30C1c11fE537730940CeD62AC37Ea371",
+        "healthFactor": 1.2143101483271685,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5cab2DCe1fc13cC273F131159925Fa41126D0553",
+        "healthFactor": 1.2303243098654861,
+        "network": "taiko"
+    },
+    {
+        "account": "0x28b5FED8bB7Dc59B0e083786F2ef596D0a357aCB",
+        "healthFactor": 1.2349136890034995,
+        "network": "taiko"
+    },
+    {
+        "account": "0xe4D453EB9C771666704d37099CA6545b1df2d3c5",
+        "healthFactor": 1.2371520303181285,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2fCb3FeF0BF57FD3f1428D00d91E50aeFf0CA48c",
+        "healthFactor": 1.252548403868516,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1b35033E3d4cBFC3800dB4F268e8596493527423",
+        "healthFactor": 1.2541635267606337,
+        "network": "taiko"
+    },
+    {
+        "account": "0x61379678C4694090B6889f9437BDdcA238c48fFa",
+        "healthFactor": 1.2542552803644695,
+        "network": "taiko"
+    },
+    {
+        "account": "0x825519f883a0Fcc728F78d0c3DAaFaa2fcD1691f",
+        "healthFactor": 1.2555180524976535,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4D328e3F326C96b883b83Bfd8e29f3C2Ebfd4341",
+        "healthFactor": 1.2628917663599082,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB30BB974E74c4Cc20e38C9308a8a5612b872D15A",
+        "healthFactor": 1.2632807322660098,
+        "network": "taiko"
+    },
+    {
+        "account": "0xDda48E5eC26b833c04c1A50E49c430487CE23E14",
+        "healthFactor": 1.2695714672851923,
+        "network": "taiko"
+    },
+    {
+        "account": "0x7496c85D8354E3617e741596c2990e8cf72805cD",
+        "healthFactor": 1.270300822180901,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd692e8e0DBd3b4b9dFefE0500F097c17AbEA4583",
+        "healthFactor": 1.277299061126616,
+        "network": "taiko"
+    },
+    {
+        "account": "0x52432473144056FE91Aeae9240aD21e6B8213440",
+        "healthFactor": 1.2805819710128235,
+        "network": "taiko"
+    },
+    {
+        "account": "0xBe5b1aFae3D69E0B193E18ba75Ea27E45aF9D681",
+        "healthFactor": 1.2826998616843468,
+        "network": "taiko"
+    },
+    {
+        "account": "0xC557f27445C6Ef0017A2fFc91689c1cA7d13AC4A",
+        "healthFactor": 1.2840976727569096,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3073BfA2D0Bd712B68b7245DbEA1429091ff45D1",
+        "healthFactor": 1.2864651401527527,
+        "network": "taiko"
+    },
+    {
+        "account": "0x17454f1F432B4EB656e87610216f11C731eCE447",
+        "healthFactor": 1.2942564693982868,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd1E627bb2841B61a5dED2f8baa836E57FC4C5Aeb",
+        "healthFactor": 1.2974861711413503,
+        "network": "taiko"
+    },
+    {
+        "account": "0xC76410870aa6157BA8b8852D1F79Ac74c39b043D",
+        "healthFactor": 1.3005488028452514,
+        "network": "taiko"
+    },
+    {
+        "account": "0x72d4eDd5b4e99CE38f554D83eA1f51f9Ab74B619",
+        "healthFactor": 1.301462984273042,
+        "network": "taiko"
+    },
+    {
+        "account": "0x713d8359a9C94720eCDa0D4e4D5439e598d1ceA6",
+        "healthFactor": 1.3133936559911847,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1b771683c4dab24FBb6d1C8C1eCCBf10a623c325",
+        "healthFactor": 1.316422182846658,
+        "network": "taiko"
+    },
+    {
+        "account": "0xD23E5D6a6022Fdd32566F47F2A3Ddc3c8E9fe804",
+        "healthFactor": 1.3165976971534197,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5B97A743eafAb208a0bdA3b29df45aC7493d49bd",
+        "healthFactor": 1.3242256367656986,
+        "network": "taiko"
+    },
+    {
+        "account": "0xf6dAD41ea5CF8565047b4711eC7c9C337A87e97d",
+        "healthFactor": 1.3294459967542038,
+        "network": "taiko"
+    },
+    {
+        "account": "0xC6E4081c481b138D6035590012E9090984d28e3f",
+        "healthFactor": 1.3302549442893061,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB5311B189Ea1EbdDf12ae6F14322cD048CA00775",
+        "healthFactor": 1.3322512355504432,
+        "network": "taiko"
+    },
+    {
+        "account": "0x7f554A7568293db35a6421759c305fee6B60Aa9a",
+        "healthFactor": 1.3328087131502642,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0F8e8f116B14528ba5527131b17E8576b7c5b9Db",
+        "healthFactor": 1.3328872590000949,
+        "network": "taiko"
+    },
+    {
+        "account": "0xf60FD90FC72E1eb4D2054a24F5DCf7658f166EdA",
+        "healthFactor": 1.3333037719871017,
+        "network": "taiko"
+    },
+    {
+        "account": "0x23F981E6Dc851c85038de131AFd0aA6bDEc79f03",
+        "healthFactor": 1.3377993434776325,
+        "network": "taiko"
+    },
+    {
+        "account": "0x75A8c09bc67687F2a4489CA1FE62462413531243",
+        "healthFactor": 1.3380575317749195,
+        "network": "taiko"
+    },
+    {
+        "account": "0xbF622dC71C836a8D189a06B3EE6130421cc167be",
+        "healthFactor": 1.3391262881853394,
+        "network": "taiko"
+    },
+    {
+        "account": "0x27a0581ee2075EaA2514a26fbcBFBd9E02dFd2f0",
+        "healthFactor": 1.3472622650445587,
+        "network": "taiko"
+    },
+    {
+        "account": "0x6e132A08a8f1251B9260E7cc327d394C8AfF3a6e",
+        "healthFactor": 1.3536458976783652,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF2880d768Fd6278E6D141De65BD1D81FD4c6De32",
+        "healthFactor": 1.3536692333689953,
+        "network": "taiko"
+    },
+    {
+        "account": "0x156e3DfB146Ff7BacCFfa23B8E83c2B4202949D7",
+        "healthFactor": 1.357383755939314,
+        "network": "taiko"
+    },
+    {
+        "account": "0x353087d43cF232fEf4164E837830Df6c1284F9c4",
+        "healthFactor": 1.3592974216427351,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF2B4BdEeABa4a56694ed10A83343F1F6B77E787A",
+        "healthFactor": 1.3669704411627979,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9BA5Cc3C1B7C6D4Db0831ECF9132318ad0d22BBd",
+        "healthFactor": 1.3669776602454922,
+        "network": "taiko"
+    },
+    {
+        "account": "0xE4d605C2BeC54F76B94b1a41eC45d2Eb47e05D1D",
+        "healthFactor": 1.3707753926642738,
+        "network": "taiko"
+    },
+    {
+        "account": "0x28c57a3C04e1Edb1d2F8CE55Ae3bd475875F53Dc",
+        "healthFactor": 1.3714430539976683,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4b4193bC6E17cf36b4381fb3f1e664Eb461Ba3bB",
+        "healthFactor": 1.383122871741327,
+        "network": "taiko"
+    },
+    {
+        "account": "0x6c6BdA6FFf716f3faf9F929Bab0C74E1048Fbf7c",
+        "healthFactor": 1.3846435993710702,
+        "network": "taiko"
+    },
+    {
+        "account": "0xDd0F87568Fa894244fBC053C751d6074B60807E0",
+        "healthFactor": 1.3846977485111385,
+        "network": "taiko"
+    },
+    {
+        "account": "0xb50160b47c2Ca8F1397Cd2395d150Ef6990D5270",
+        "healthFactor": 1.3904028792354113,
+        "network": "taiko"
+    },
+    {
+        "account": "0xcbdc53d424D5a2e5fef1776997352f10212c9883",
+        "healthFactor": 1.393928953861369,
+        "network": "taiko"
+    },
+    {
+        "account": "0x017289B52C1D6740270E9c130675A7c90a1125DD",
+        "healthFactor": 1.3980693024400974,
+        "network": "taiko"
+    },
+    {
+        "account": "0x70EB6C435316D665a93DE38C93f27f4e19D7F65f",
+        "healthFactor": 1.4032135388717697,
+        "network": "taiko"
+    },
+    {
+        "account": "0xD2CbeaD1Ee498BE422590433aaab179b9c4493d7",
+        "healthFactor": 1.411324816079792,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2444BAaDAAbB4D642397948F9D1C17D93B2F89d5",
+        "healthFactor": 1.4193764187759081,
+        "network": "taiko"
+    },
+    {
+        "account": "0xf56e809AD3114D3c07a0196EE3e518F67B9c7B32",
+        "healthFactor": 1.4216532844688936,
+        "network": "taiko"
+    },
+    {
+        "account": "0x67Ca1BE725C35B65c7429892de87a897ADD7f30d",
+        "healthFactor": 1.4230025583534007,
+        "network": "taiko"
+    },
+    {
+        "account": "0x72abf1632E1B7a7BBf0F792874C818e9Ac7E024A",
+        "healthFactor": 1.4246041847845121,
+        "network": "taiko"
+    },
+    {
+        "account": "0xA189b646c8983253De9eE06C815c51171F265f81",
+        "healthFactor": 1.4315709808522703,
+        "network": "taiko"
+    },
+    {
+        "account": "0x307B85a56678107f75d694aC48c90AFb4b9Fdd63",
+        "healthFactor": 1.4339625866585888,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8e16B17FC897a77dee9A382cc537Df1670edd95e",
+        "healthFactor": 1.4357311189755009,
+        "network": "taiko"
+    },
+    {
+        "account": "0xD5DE54c5a1a8a84fa9D11413B8127634ABb39E40",
+        "healthFactor": 1.4479571994053912,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2e68D262C048c95D7937b8810DcbF25721732545",
+        "healthFactor": 1.4582503924836976,
+        "network": "taiko"
+    },
+    {
+        "account": "0x11EB0f61c9481081bf3137e7173003ab89bDC898",
+        "healthFactor": 1.4605035877522823,
+        "network": "taiko"
+    },
+    {
+        "account": "0x00810dEF583eC026FeFCb0757200eba8A6758F99",
+        "healthFactor": 1.4619749582302233,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0503c75FF36FcB521BC6b6e093CcC06eA0d308c0",
+        "healthFactor": 1.463359342635143,
+        "network": "taiko"
+    },
+    {
+        "account": "0x64549b3c2252EE8e5483CB691fCA3B04e8d9e157",
+        "healthFactor": 1.4650126028654251,
+        "network": "taiko"
+    },
+    {
+        "account": "0x93C8b86e36FAe2a53A5c688a6e426b9d14425ede",
+        "healthFactor": 1.471558837997323,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2a4C07778a1ed7EE2EF97c1b2ce21ea54fC0ce37",
+        "healthFactor": 1.4965666135794238,
+        "network": "taiko"
+    },
+    {
+        "account": "0x03C34c421907Ce56A82aB508FB9b47140DCc9ba4",
+        "healthFactor": 1.5016239932599988,
+        "network": "taiko"
+    },
+    {
+        "account": "0x350A885Ea8744C28A26e6b874dD7a50C5d0E72Be",
+        "healthFactor": 1.5017185956632735,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2c2bBb6550dfa9f138F5117cDbDF60F595A76768",
+        "healthFactor": 1.5269397076841404,
+        "network": "taiko"
+    },
+    {
+        "account": "0x53cB343F9413cE76B18E30348d96F102e0D4307d",
+        "healthFactor": 1.5283543029518802,
         "network": "taiko"
     },
     {
         "account": "0xC756f06Ef1A029483b0F3d8a7a1bf81a9308c371",
-        "healthFactor": 1.5294254867447858,
+        "healthFactor": 1.529412516363506,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5BA5b1Ed55ACeF2854274691062eEAa4281660A5",
+        "healthFactor": 1.535127512021953,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF4cc0c544e072344f8f968e61932E66c3a122695",
+        "healthFactor": 1.5368295864344357,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4BA67EC73A7aBF9E015eeFC1979053CE0E56B369",
+        "healthFactor": 1.5495290325556117,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4FfD0A59a26cB2Aa76D403215e4cC2845C053994",
+        "healthFactor": 1.560260025757586,
+        "network": "taiko"
+    },
+    {
+        "account": "0x092e7471A55c416f12D3340C6Cce1A4bcc373089",
+        "healthFactor": 1.5724227199916625,
+        "network": "taiko"
+    },
+    {
+        "account": "0x88bf17fCAa40f709365e0E9fCD6d6fcfb9bE600c",
+        "healthFactor": 1.574538023629935,
         "network": "taiko"
     },
     {
         "account": "0xB84F419FD6DC9C30cCAA6ecbF5d194Af065A33ff",
-        "healthFactor": 1.5774485298509073,
+        "healthFactor": 1.5755514504367996,
+        "network": "taiko"
+    },
+    {
+        "account": "0xb8968202D325F5DC87e961e148d1F6bFe7641ed5",
+        "healthFactor": 1.5912686727743182,
+        "network": "taiko"
+    },
+    {
+        "account": "0x60D4D93f5aedDe143ab93C5223C3c62AfcAe0859",
+        "healthFactor": 1.5926933034653254,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF71821216d4557f95f54eFBdaaEdBd0685064Ab5",
+        "healthFactor": 1.5997517535510244,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8965201466Cfd7A2D412161c623472b6F6A394F8",
+        "healthFactor": 1.6026750152193578,
+        "network": "taiko"
+    },
+    {
+        "account": "0xC2308DcB1844e4bc0CB65cBcFE465e8d289A4c48",
+        "healthFactor": 1.6031992620129785,
+        "network": "taiko"
+    },
+    {
+        "account": "0xc7E8eE6571B183fB5f22a20bD686310388D3C7F5",
+        "healthFactor": 1.6075664541029318,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd99F3F444fE1467b4041c826F2955d706eE427e9",
+        "healthFactor": 1.6135538995747338,
+        "network": "taiko"
+    },
+    {
+        "account": "0xa28f0fDc271d3404F4f1477731a5c6e4054F059F",
+        "healthFactor": 1.6173152913158833,
+        "network": "taiko"
+    },
+    {
+        "account": "0x408ebE49eD5E5BcbBDB2b34d5Ff7be4af3061C3A",
+        "healthFactor": 1.617386915714991,
+        "network": "taiko"
+    },
+    {
+        "account": "0xaD5B7F1B8D78EC79787ed11A8A4384A86b39a46F",
+        "healthFactor": 1.6361342350850192,
+        "network": "taiko"
+    },
+    {
+        "account": "0xDB0132c875eA7A00c4a6283da592ae6500205396",
+        "healthFactor": 1.6781796960488171,
+        "network": "taiko"
+    },
+    {
+        "account": "0x641F6a9d0845e09DdB4043C2A184359a1155723c",
+        "healthFactor": 1.6855103237395166,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB42644484b313EAF21a52B457Cdcc4346014E526",
+        "healthFactor": 1.6946561498648596,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2c499aDF6965B29771A61b3F5092001b1Fd2d8d0",
+        "healthFactor": 1.6994612518367933,
+        "network": "taiko"
+    },
+    {
+        "account": "0xbC9895E653561a88aC109Ff5aaf21655459DF282",
+        "healthFactor": 1.7073560915161063,
+        "network": "taiko"
+    },
+    {
+        "account": "0x56EbC608fD6B8F8CeF2775a3Ee0DddaEc01A7000",
+        "healthFactor": 1.7147359283900458,
+        "network": "taiko"
+    },
+    {
+        "account": "0xEF045BF72906753338d651aFA7f8875EE4E9904a",
+        "healthFactor": 1.7167184529782675,
+        "network": "taiko"
+    },
+    {
+        "account": "0x10225536651fC6da727e2f5DA10Fe9Cf7AA3a114",
+        "healthFactor": 1.716726177917014,
+        "network": "taiko"
+    },
+    {
+        "account": "0x96Dbfd60eBD5ED0673Af3FfA8C38272FAD018ed8",
+        "healthFactor": 1.7268222820914092,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0c4E7870fF6F11e722B9C0e1EA8e930528AfA6B5",
+        "healthFactor": 1.755292982594903,
+        "network": "taiko"
+    },
+    {
+        "account": "0x24317cAB3C632E0B1eD0d21De1E0a009359B1296",
+        "healthFactor": 1.7712554497492976,
+        "network": "taiko"
+    },
+    {
+        "account": "0x86A345944C1B2BB561F8C751F4EDb4AC8CFF66FB",
+        "healthFactor": 1.7773056891248098,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9c8A57a6D9d42EFcBD560D5771a07a4227572d74",
+        "healthFactor": 1.8183274530133802,
+        "network": "taiko"
+    },
+    {
+        "account": "0x572441E40a3917E1132056b7a57273C122169B7D",
+        "healthFactor": 1.8298611245573813,
+        "network": "taiko"
+    },
+    {
+        "account": "0xFA89523A6242210b6A1F13e67C8A28d577C407a6",
+        "healthFactor": 1.8298677803265428,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0503C783B05471aA0ffeC848E811e8f62AD72fD8",
+        "healthFactor": 1.8298800014651608,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd2218ADe902aF78A1735CA8718e391F28F1aFd43",
+        "healthFactor": 1.8366357919576448,
+        "network": "taiko"
+    },
+    {
+        "account": "0xF9472f4056eD80dAD3003B15D4513c5E5D67bC20",
+        "healthFactor": 1.8380808814225393,
+        "network": "taiko"
+    },
+    {
+        "account": "0x63A3BB359Ec36656B0D1c242099483110CAAC839",
+        "healthFactor": 1.847140578127026,
+        "network": "taiko"
+    },
+    {
+        "account": "0xde0CCFBCc11052328c7c928939EBc49e9A15f417",
+        "healthFactor": 1.8653658268172812,
+        "network": "taiko"
+    },
+    {
+        "account": "0xCAfEECBcaB191BAD5C4F660723DbfFcC64800514",
+        "healthFactor": 1.8663425552132453,
+        "network": "taiko"
+    },
+    {
+        "account": "0xa8c8c83cB890913361D6350E368545A6554289b3",
+        "healthFactor": 1.8664093149887064,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0E2624FB638C173CFFa45089D16453dF6FD3942B",
+        "healthFactor": 1.8668817577378607,
+        "network": "taiko"
+    },
+    {
+        "account": "0xaCB51D5383371D31B47Ee111f13553e8580B5842",
+        "healthFactor": 1.8770577984794765,
+        "network": "taiko"
+    },
+    {
+        "account": "0x848ac158D4aF8A753227AD4e955a6eA3b0CbF480",
+        "healthFactor": 1.8852513463466867,
+        "network": "taiko"
+    },
+    {
+        "account": "0xDBcfCF489FAA6A6D068BdD71f130da5F1526d51F",
+        "healthFactor": 1.8900126142904983,
+        "network": "taiko"
+    },
+    {
+        "account": "0x53A007FA1a447E73eBde5bb4964213131732EdB5",
+        "healthFactor": 1.9249989150973215,
+        "network": "taiko"
+    },
+    {
+        "account": "0x789b917eC151791f673367655F25fEA5d50AA071",
+        "healthFactor": 1.926792726537145,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd263f2Bbca1772F9B06554fB775770Feea12F5d2",
+        "healthFactor": 1.9443059450289444,
+        "network": "taiko"
+    },
+    {
+        "account": "0xe9e20141a0Fe507FF4E5647242c8d2fF0D874492",
+        "healthFactor": 1.952855657353588,
+        "network": "taiko"
+    },
+    {
+        "account": "0x64E325c447D6352F123bAC9531c8a4527bcC4761",
+        "healthFactor": 1.9586135961413258,
+        "network": "taiko"
+    },
+    {
+        "account": "0xFE2B8062f4Acb8d21EcB9434208C76855D2eb043",
+        "healthFactor": 1.9852481378490305,
+        "network": "taiko"
+    },
+    {
+        "account": "0x146f2Aaa6e6B36Cdf8FAF037d2C50a00b38Be34d",
+        "healthFactor": 1.9901810032042495,
+        "network": "taiko"
+    },
+    {
+        "account": "0x95D07F64F534b3c66F2e2516Bb461B72a4B221b0",
+        "healthFactor": 1.99797584933886,
+        "network": "taiko"
+    },
+    {
+        "account": "0xfA8Deeb3e47674468f74f65c3A015C8A5b6EeB99",
+        "healthFactor": 2.0078758611894294,
+        "network": "taiko"
+    },
+    {
+        "account": "0x42600702015C4eEc88fAE4bb23E1Dba0831c7769",
+        "healthFactor": 2.0275841847432763,
+        "network": "taiko"
+    },
+    {
+        "account": "0x63cf5c5d55e284afC60ec8Ec4DA4dD7cC9F50de7",
+        "healthFactor": 2.0372408557328643,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8306D7B380AdA3F71b1d0B53b39F9d8319C08832",
+        "healthFactor": 2.0456315592476804,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3E7eAe6caEaEf138946C661489b07F67e57bcABE",
+        "healthFactor": 2.0460817359000933,
+        "network": "taiko"
+    },
+    {
+        "account": "0xb9156d97A1587b1c2bd3BA1BCABe3B2a14E3b235",
+        "healthFactor": 2.051985218543552,
+        "network": "taiko"
+    },
+    {
+        "account": "0xa2D1589A43d454C672fE62bFC9f741FCc777f1d8",
+        "healthFactor": 2.0543012235838556,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9f53Ddc105a4b29b67d68304FF0C198CD7cEc01F",
+        "healthFactor": 2.056537538297982,
+        "network": "taiko"
+    },
+    {
+        "account": "0x05bBc353afE7Dd120440Df1C1ba9e0933d79C2ba",
+        "healthFactor": 2.0586426347662625,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0Bd23f89DCe8faa154bc510517A8Fab364655b6f",
+        "healthFactor": 2.059941218631477,
+        "network": "taiko"
+    },
+    {
+        "account": "0x158e74a889CE95788870c561973Eacd717D8801a",
+        "healthFactor": 2.0878655478528345,
+        "network": "taiko"
+    },
+    {
+        "account": "0x22B1Eab2f5ecfd930e68E3D659Ca017b7112E8c9",
+        "healthFactor": 2.08972886233507,
+        "network": "taiko"
+    },
+    {
+        "account": "0xA3E8A417e807Fda06cA706b163e03786246b82fA",
+        "healthFactor": 2.092494559653605,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4af178f38F02F57144e23949d502CB510E721bd4",
+        "healthFactor": 2.1036267555983095,
+        "network": "taiko"
+    },
+    {
+        "account": "0x692431B45c574af4C7310153F995185517c0745A",
+        "healthFactor": 2.1321657972794217,
+        "network": "taiko"
+    },
+    {
+        "account": "0x851852620AC52031C3874C3AC254B837C9CA34C2",
+        "healthFactor": 2.145342688697156,
+        "network": "taiko"
+    },
+    {
+        "account": "0xcbFe90a6cD86Ca2169E3e52Dd3D6E433880343E3",
+        "healthFactor": 2.1617878453622326,
+        "network": "taiko"
+    },
+    {
+        "account": "0x6aF8aCD356aCBb4D6d2603136cBCa985d1fdFfb5",
+        "healthFactor": 2.1676712483394875,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8E616eC73F237D7e15e543f6676d676a145B4F2c",
+        "healthFactor": 2.168889049389074,
+        "network": "taiko"
+    },
+    {
+        "account": "0xCFB0649283cdC540DaC31a3Db0c7f3126A5C6751",
+        "healthFactor": 2.185065143149281,
+        "network": "taiko"
+    },
+    {
+        "account": "0x84A0DAF2fF4F2A2CD42F164F1110403311538926",
+        "healthFactor": 2.220024474469196,
+        "network": "taiko"
+    },
+    {
+        "account": "0xEd5115D1C70eD9c1886F5411E6759F5Ce2E791Dd",
+        "healthFactor": 2.2315513925679764,
+        "network": "taiko"
+    },
+    {
+        "account": "0x610C2BD4B82717fBBA73Acaca4718e5EcD46920c",
+        "healthFactor": 2.2414547228857153,
+        "network": "taiko"
+    },
+    {
+        "account": "0xFBab677f2924b280fBE80d01db53f7214c204aE5",
+        "healthFactor": 2.2414566854811984,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1ff2fFB3756FdCCa4bdf22Ba8eDaa284549485eC",
+        "healthFactor": 2.2414567302880593,
+        "network": "taiko"
+    },
+    {
+        "account": "0x31169b93C8C9bA252da75581E6ab611E53836E52",
+        "healthFactor": 2.256804157375154,
+        "network": "taiko"
+    },
+    {
+        "account": "0xD4fD40e11aF30830608B5425d48E0133B169c9b0",
+        "healthFactor": 2.2675545096326504,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3D90754cF9a0aC9fcDa6F78580442f88d3b87A6b",
+        "healthFactor": 2.2697868242768315,
+        "network": "taiko"
+    },
+    {
+        "account": "0x91101538E928996430C03a963F2aFCEc5b6D5966",
+        "healthFactor": 2.2708794440823374,
+        "network": "taiko"
+    },
+    {
+        "account": "0xA25bc8c1e230a476cB00f2e9c93ffC2D4e163dc5",
+        "healthFactor": 2.272124406166306,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0298c27dB135B5b091e9243cB4471795691BBfE4",
+        "healthFactor": 2.3319247158937024,
+        "network": "taiko"
+    },
+    {
+        "account": "0xea81D043371454FAE6386718C337925660A3Fad8",
+        "healthFactor": 2.3738403871513905,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2D6c3Aaaa53BE2989F8C0a49CD143BBae8a3aeac",
+        "healthFactor": 2.3881400076672232,
+        "network": "taiko"
+    },
+    {
+        "account": "0x747FdD5BFdFbC9e39e722DA20e661d2233e78E72",
+        "healthFactor": 2.3909558326520095,
+        "network": "taiko"
+    },
+    {
+        "account": "0x38D4AA05B0C4445978BFB353c4aEDfc31b01dE86",
+        "healthFactor": 2.41849051793003,
+        "network": "taiko"
+    },
+    {
+        "account": "0xfa6f51C4bc1e1e3C610B4E266dDC1eD0E7Df03d3",
+        "healthFactor": 2.4217682680655783,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1384e7C05aD8E09816c1902b3f7B83a74E0e865D",
+        "healthFactor": 2.4406074955879666,
+        "network": "taiko"
+    },
+    {
+        "account": "0xfaE6F9E381F91De413430D026E6a522a2fb2E0B8",
+        "healthFactor": 2.446105748834141,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1869F6bcCA76861e0E2ea7fFDeB8bE741d712736",
+        "healthFactor": 2.454454959428971,
+        "network": "taiko"
+    },
+    {
+        "account": "0xbFCD44406f96D05d72EdAB72D4186F6f1fF1591A",
+        "healthFactor": 2.4684487104761197,
+        "network": "taiko"
+    },
+    {
+        "account": "0xA40e71A17254088cFdAEa9F0C6e481000cFde309",
+        "healthFactor": 2.4916010196624527,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3A840335D6277321B86bd4c0185aea975525e215",
+        "healthFactor": 2.540000377992347,
+        "network": "taiko"
+    },
+    {
+        "account": "0xaAb906e931F867FD97432edB2517B2FBB4099324",
+        "healthFactor": 2.601941683663567,
+        "network": "taiko"
+    },
+    {
+        "account": "0x624F4F15361A945E0A5afE71e5E0C0D364bbDa7B",
+        "healthFactor": 2.6651520560423627,
+        "network": "taiko"
+    },
+    {
+        "account": "0x6f262860Bbe5eD531Bf0757077023a62B94f4Ca7",
+        "healthFactor": 2.6656136810514335,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3a89E1a3EF6Bd1a48EbF7Deddc558F4c8820773A",
+        "healthFactor": 2.7043562502027862,
+        "network": "taiko"
+    },
+    {
+        "account": "0x94f6bc06337AABAe766759A0cD52721672474689",
+        "healthFactor": 2.704356568319052,
+        "network": "taiko"
+    },
+    {
+        "account": "0xAEC109dCd8521d4e12a7eC04532CBf9eCaFFcC52",
+        "healthFactor": 2.7739488895811073,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0132A3087DeF8f8E8addC7D8a96cd349A92016E8",
+        "healthFactor": 2.774174932158417,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9fE1381bbf84Af2BD3d1c1EE48EeD57e475f3F30",
+        "healthFactor": 2.7799066659017737,
+        "network": "taiko"
+    },
+    {
+        "account": "0x7D2cf5F0E13DB2B1dDef1BB8c17D1baAf11fDDeC",
+        "healthFactor": 2.7799100014082057,
+        "network": "taiko"
+    },
+    {
+        "account": "0x77cA60dC603BA4a4B84D6520b21e5B72eF508396",
+        "healthFactor": 2.7845957757841933,
+        "network": "taiko"
+    },
+    {
+        "account": "0x59fE1bf4f252090Dd9A351ea78E93D252a2FA529",
+        "healthFactor": 2.8064612979333137,
+        "network": "taiko"
+    },
+    {
+        "account": "0xfe8cC72D95633e3a40CF3D221a609ef0C4807745",
+        "healthFactor": 2.8445087614870106,
+        "network": "taiko"
+    },
+    {
+        "account": "0xdbe29e36Ba798e5F2481353aB18BD8D667538A8F",
+        "healthFactor": 2.858065429463335,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd1db1b014513ffCC2a3B204A8483d9243D08b684",
+        "healthFactor": 2.8581221130009986,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8A8ae63d13239E4D6174381F9dbCaFa0416dA84c",
+        "healthFactor": 2.9803759530552822,
+        "network": "taiko"
+    },
+    {
+        "account": "0x83889C4c382b4D2ACF88d23d770Ca24472B1F0f4",
+        "healthFactor": 3.065207874938553,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB86C03d0D030Ac3E73746004C310621838B17Db9",
+        "healthFactor": 3.184300589880438,
+        "network": "taiko"
+    },
+    {
+        "account": "0x41FbB190B8b5090B932754873Ec695818a7216e3",
+        "healthFactor": 3.22386045103543,
+        "network": "taiko"
+    },
+    {
+        "account": "0xc526fB73C639aaF21AA9AAFe7aC5249C249E2730",
+        "healthFactor": 3.228318803217954,
+        "network": "taiko"
+    },
+    {
+        "account": "0x607262b3D60e256290a65c2c3b88590A0E67E201",
+        "healthFactor": 3.259933078963738,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9032CEEeF231fe3BdCda63805bDF80B496cEB209",
+        "healthFactor": 3.3319901630781166,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4127D8FA1867D829C48dA4AD93506fbaAc44D564",
+        "healthFactor": 3.431576340231722,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3a2c098783F1152775C2E86F377d85a0783001E0",
+        "healthFactor": 3.446102150966791,
         "network": "taiko"
     },
     {
         "account": "0x0F3F321E87799Fe8F27439B52c8D7b6BDcF5FEB6",
-        "healthFactor": 3.5560959218605284,
+        "healthFactor": 3.547715366699526,
+        "network": "taiko"
+    },
+    {
+        "account": "0x68d4ba81d7606578a1a5B32a3a70f6CaA6E36CaA",
+        "healthFactor": 3.5906989972134182,
+        "network": "taiko"
+    },
+    {
+        "account": "0xca3ad9369cC96AE919d83968566f096cD06C009b",
+        "healthFactor": 3.6492060178138863,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9D3C53321cFA9D08660aD32e09C7Ef2625b16E67",
+        "healthFactor": 3.7658006358412672,
+        "network": "taiko"
+    },
+    {
+        "account": "0x24Cee298aC074aE2055F9B0787f445E2655b472F",
+        "healthFactor": 3.8987062897589277,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4036dAebEDb046e32B8fB1a722c4fD26783e6f80",
+        "healthFactor": 3.962892632580274,
+        "network": "taiko"
+    },
+    {
+        "account": "0x7a0222dee3519854468f31154a4349C92814875F",
+        "healthFactor": 3.991942724212676,
+        "network": "taiko"
+    },
+    {
+        "account": "0x9ebf583F62C2a38496BB84D925e6014a86BF3165",
+        "healthFactor": 3.9992841647939774,
+        "network": "taiko"
+    },
+    {
+        "account": "0x09C949b879236d58a24caeadE0Ac213BA62333cF",
+        "healthFactor": 4.349299224437434,
+        "network": "taiko"
+    },
+    {
+        "account": "0x749cB95d1Ca79BE602713FDcb7D053B3a4e4C02c",
+        "healthFactor": 4.569321740616406,
+        "network": "taiko"
+    },
+    {
+        "account": "0x92631D3a6b0c5466AEA64F6Fe4A9d256D0827479",
+        "healthFactor": 4.593300377567845,
+        "network": "taiko"
+    },
+    {
+        "account": "0xe666Baf2A501516258a1bbf3116BA25Dd55F8a1C",
+        "healthFactor": 4.8010198446212415,
+        "network": "taiko"
+    },
+    {
+        "account": "0x1d061740415d791116D606aFB241F32772a9fD49",
+        "healthFactor": 4.848310634398423,
+        "network": "taiko"
+    },
+    {
+        "account": "0xc909Ce05b29B9423dC55622c51fD98220ac557BB",
+        "healthFactor": 5.603453615695978,
+        "network": "taiko"
+    },
+    {
+        "account": "0xCC6261C7F9C29A1F69e4021c83AA20a02a225a84",
+        "healthFactor": 5.673366834170854,
+        "network": "taiko"
+    },
+    {
+        "account": "0xdBD9e03b74b49241dD138Fc690094155FFaF344f",
+        "healthFactor": 6.269680362310306,
         "network": "taiko"
     },
     {
         "account": "0x3099cE94b9dDB6715B1169F61Aa0e16ad818Ce89",
-        "healthFactor": 6.36060382057986,
+        "healthFactor": 6.360567649159081,
+        "network": "taiko"
+    },
+    {
+        "account": "0xb39ab179Cc602742bfC819D868DB98bfbDbb85d0",
+        "healthFactor": 6.44127786627631,
+        "network": "taiko"
+    },
+    {
+        "account": "0x58e8784D385BcBBfca54B602a2AbFe73f5fEe710",
+        "healthFactor": 7.114027431293395,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4F0Acc54994bf27Baa11D5C24ddaEd6920Eaf7a7",
+        "healthFactor": 7.336223679795832,
+        "network": "taiko"
+    },
+    {
+        "account": "0xBc59BC6F063287e63C4df600a0F8f768AA778480",
+        "healthFactor": 7.805957461971591,
+        "network": "taiko"
+    },
+    {
+        "account": "0xe2F383AA329c3efFcd5b9DDD84a6cC09F34Dd4da",
+        "healthFactor": 7.99882274140092,
+        "network": "taiko"
+    },
+    {
+        "account": "0x7F7bAc92AA3e28351F9E89535CA334e8A44542d0",
+        "healthFactor": 8.014028056112224,
+        "network": "taiko"
+    },
+    {
+        "account": "0xb409c9f2747cd74e40D9EbCbac0296b7edF613eD",
+        "healthFactor": 8.2001534896236,
+        "network": "taiko"
+    },
+    {
+        "account": "0x558c837c7Af219FF9831Baa6523B240495eEe7E5",
+        "healthFactor": 8.599014415774139,
+        "network": "taiko"
+    },
+    {
+        "account": "0x873415F6633A0C42b8717bC898354638F52b13f3",
+        "healthFactor": 10.181819607656752,
+        "network": "taiko"
+    },
+    {
+        "account": "0x923B26470a3164FEc6911D9cbF66B0426C72d2E9",
+        "healthFactor": 10.666638642433968,
+        "network": "taiko"
+    },
+    {
+        "account": "0x6f4694DE34939E1c9B8cc9702498Fd59A2d993Ea",
+        "healthFactor": 11.120269387344825,
+        "network": "taiko"
+    },
+    {
+        "account": "0x27bf08361BD83A0d7b74455D02b65FEE9caF3Af5",
+        "healthFactor": 13.297165736310474,
+        "network": "taiko"
+    },
+    {
+        "account": "0x89d11C7c7Bd8699aC6e089c79b2fAaC66509ccBF",
+        "healthFactor": 13.43936157783073,
+        "network": "taiko"
+    },
+    {
+        "account": "0xd7cb252369F1A5E80f6CbeF30223B5716C97eC52",
+        "healthFactor": 14.753846153846155,
+        "network": "taiko"
+    },
+    {
+        "account": "0x33727bDfd9d2c3Dc34f4460fE7073E7222790199",
+        "healthFactor": 15.198822635776681,
+        "network": "taiko"
+    },
+    {
+        "account": "0x078e69Af5AfcFC6726b4B60CED4eB0aA0ff17ACf",
+        "healthFactor": 15.991935881597067,
+        "network": "taiko"
+    },
+    {
+        "account": "0x069af106d06a4Ea05A41c1e32e1ce64dDe3D01A7",
+        "healthFactor": 16.80193210168262,
+        "network": "taiko"
+    },
+    {
+        "account": "0xDfa27D9981ed8f88A8F9310f6d575A3DF0051005",
+        "healthFactor": 21.11414913994597,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5c913285DD9421EDc9d8f1000A35D9bbDF0DCb62",
+        "healthFactor": 24.014148049229437,
+        "network": "taiko"
+    },
+    {
+        "account": "0xe99174F08e1186134830f8511De06bd010978533",
+        "healthFactor": 26.651261713704653,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5255ba61AA23d11859D219771201Fc8A85c8e9e9",
+        "healthFactor": 28.61267731446743,
+        "network": "taiko"
+    },
+    {
+        "account": "0x191A646a4Cc3C3aDDbf2164FDa517351A9F90B47",
+        "healthFactor": 53.30187626151939,
+        "network": "taiko"
+    },
+    {
+        "account": "0xD57efB543e64b8e787f9d941000d6C1354cA6FA0",
+        "healthFactor": 53.36598213095079,
+        "network": "taiko"
+    },
+    {
+        "account": "0x38A7790F9Fe53EC6F083d41bfb19E9Fde3f8847F",
+        "healthFactor": 54.198465133666105,
+        "network": "taiko"
+    },
+    {
+        "account": "0x730F95d538f0D59c8F15eBE3B1d4B563717C1281",
+        "healthFactor": 106.73196426190158,
+        "network": "taiko"
+    },
+    {
+        "account": "0xeC76B700E5E9c5988B61Da0dca75db26F5eded62",
+        "healthFactor": 106.73196426190158,
+        "network": "taiko"
+    },
+    {
+        "account": "0x321e5311889c35b0b20317a4c9ECf01b9186099C",
+        "healthFactor": 107.20047776510438,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8afd5844e2e2677fc6A34AEBE549f3F1d228a2B5",
+        "healthFactor": 114.88944763809047,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4Af5f783056C26231190DDC744D157e399488bbD",
+        "healthFactor": 169.88826038170475,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5D293F0795A2B6f47a75123ee8f236F585c06AB6",
+        "healthFactor": 610.1868957558661,
+        "network": "taiko"
+    },
+    {
+        "account": "0x5484a60152db521F170566C5Ea702011eEEA14B4",
+        "healthFactor": 1294.7000049268365,
+        "network": "taiko"
+    },
+    {
+        "account": "0x2d43Da724baFEF5a571528bF6913D1aA639BECc5",
+        "healthFactor": 5092.818926296633,
+        "network": "taiko"
+    },
+    {
+        "account": "0xfaed6dbB0F3Ccfc29aCC0F38f16b52c2c8F065c6",
+        "healthFactor": 5960.044434147195,
+        "network": "taiko"
+    },
+    {
+        "account": "0x8607553844c508C60e650Cdf368e2b6F3cA4Ccb8",
+        "healthFactor": 9610.890410958904,
         "network": "taiko"
     }
 ]
