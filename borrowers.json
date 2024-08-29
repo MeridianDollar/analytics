@@ -1,0 +1,42 @@
+[
+    {
+        "account": "0x1CB3c6B77Fde279cf7403a5C0AE2d5Fc9D356A55",
+        "healthFactor": 1.0850207367554234,
+        "network": "taiko"
+    },
+    {
+        "account": "0xE86d78381c4cd7B4a67278e1194cA7bABc363Af9",
+        "healthFactor": 1.1485405112271205,
+        "network": "taiko"
+    },
+    {
+        "account": "0x6Fa5d778E13888de9827d16ab5799807E863339a",
+        "healthFactor": 1.1999888787998618,
+        "network": "taiko"
+    },
+    {
+        "account": "0x4BA67EC73A7aBF9E015eeFC1979053CE0E56B369",
+        "healthFactor": 1.3131269031786021,
+        "network": "taiko"
+    },
+    {
+        "account": "0xC756f06Ef1A029483b0F3d8a7a1bf81a9308c371",
+        "healthFactor": 1.5294254867447858,
+        "network": "taiko"
+    },
+    {
+        "account": "0xB84F419FD6DC9C30cCAA6ecbF5d194Af065A33ff",
+        "healthFactor": 1.5774485298509073,
+        "network": "taiko"
+    },
+    {
+        "account": "0x0F3F321E87799Fe8F27439B52c8D7b6BDcF5FEB6",
+        "healthFactor": 3.5560959218605284,
+        "network": "taiko"
+    },
+    {
+        "account": "0x3099cE94b9dDB6715B1169F61Aa0e16ad818Ce89",
+        "healthFactor": 6.36060382057986,
+        "network": "taiko"
+    }
+]
